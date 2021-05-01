@@ -1,0 +1,4 @@
+name: JavaTest
+version: ${project.version}
+main: com.github.frango28.mcplugin.javatest.Javatest
+api-version: 1.16
